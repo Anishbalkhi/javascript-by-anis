@@ -1,62 +1,61 @@
-// // // let student = {
-// // //     name: "anish",
-// // //     age: 20,
-// // //     roll_no: 103
-// // // }
-// // // console.log(student.name)
+let student = {
+// name: "anish",
+//  age: 20,
+//  roll_no: 103 }
+//  console.log(student.name)
 
-// // // const item = {
-// // //     price: 100,
-// // //     discount: 20,
-// // //     colors: ["green","red"]
-// // // }
-// // // //access the data of object.
-// // // //there are two syntax to write it 
-// // // //1. obj.key
-// // // //2. obj["key"]
-// // // console.log(item.price)
-// // // console.log(item["discount"])
-// // // //print the whole object
-// // // console.log(item)
+// const item = {
+//  price: 100,
+//      discount: 20,
+//      colors: ["green","red"]
+//  }
+// //access the data of object.
+//  //there are two syntax to write it 
+//  //1. obj.key
+//  //2. obj["key"]
+//  console.log(item.price)
+//  console.log(item["discount"])
+//  //print the whole object
+//  / console.log(item)
 
-// // // //[] is convert any value in string where dot(.) is not do that
+//  //[] is convert any value in string where dot(.) is not do that
 
-// // // //how change the values of key and create a new key
-// // // let women = {
-// // //     name: "divya",
-// // //     age: 32,
-// // //     husband: "vivek bindra"
-// // // }
-// // // //changing the value of key
-// // // console.log(women.husband)
-// // // women.husband = "sandeep mahesvari"
-// // // console.log(women.husband)
+//  //how change the values of key and create a new key
+//   let women = {
+//       name: "divya",
+//       age: 32,
+//       husband: "vivek bindra"
+//   }
+//  changing the value of key
+//   console.log(women.husband)
+//   women.husband = "sandeep mahesvari"
+//  console.log(women.husband)
 
-// // // //create the key
-// // // women.address = "jaipur"
-// // // console.log(women)
-// // // //delete any key
-// // // delete women.husband
-// // // console.log(women)
+//  // //create the key
+//  women.address = "jaipur"
+//  console.log(women)
+//  //delete any key
+//  delete women.husband
+//  console.log(women)
 
  
-// // //nested object
-// // let college = {
-// //     student: {
-// //         name: "anish",
-// //         age: 20,
-// //         address: "nagour"
-// //     },
-// //     teacher: { 
-// //         name: "mahesh",
-// //         age: 30,
-// //         subject: "oops"
-// //     }
-// // }
+//  //nested object
+//  let college = {
+//      student: {
+//         name: "anish",
+//          age: 20,
+//          address: "nagour"
+//      },
+//      teacher: { 
+//          name: "mahesh",
+//          age: 30,
+//          subject: "oops"
+//      }
+//  }
 
-// // console.log(college)
-// // console.log(college.student.name)
-// // console.log(college.teacher.subject)
+//  console.log(college)
+//  console.log(college.student.name)
+//  console.log(college.teacher.subject)
 
 
 // //array of objects
